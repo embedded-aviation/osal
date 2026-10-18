@@ -23,6 +23,11 @@ and keep the public header the single source of truth for the contract.
 > scaffold tooling still works for spinning up sibling libraries, but osal itself
 > is no longer a template to be migrated.
 
+## Writing Standard
+
+All English text (comments, Doxygen, docs, log messages, commit messages) must
+obey ASD-STE100 Simplified Technical English. See `docs/WRITING.md`.
+
 ## Build Commands
 
 ### Basic Build
